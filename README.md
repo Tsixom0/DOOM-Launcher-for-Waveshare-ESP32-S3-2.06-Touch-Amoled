@@ -2,7 +2,7 @@
 
 An SD-card-based DOOM launcher for ESP32-S3 touch AMOLED devices. Inspired by the classic DOOM.
 
-![Watch UI](aa.png)
+![Watch UI](file_00000000131c71f58e63779bd8d87106.png)
 
 ## Features
 

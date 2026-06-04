@@ -1,7 +1,7 @@
 # DOOM Watch Launcher
 
 - An SD-card-based DOOM launcher for ESP32-S3 touch AMOLED devices. Inspired by the classic DOOM.
-- 
+
 ## Support
 
 If you like this project, you can support me on [Ko-fi](https://ko-fi.com/tsixom) ☕

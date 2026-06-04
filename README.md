@@ -56,7 +56,7 @@
 ### DOOM Engine
 
 - Original DOOM
-- Chocolate Doom / doomgeneric
+- doomgeneric
 
 ### Libraries
 

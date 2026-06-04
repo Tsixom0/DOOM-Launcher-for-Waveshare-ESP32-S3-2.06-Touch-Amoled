@@ -4,7 +4,7 @@
 - 
 ## Support
 
-If you like this project, you can support me on [Ko-fi](https://ko-fi.com/s/c68a796d12) ☕
+If you like this project, you can support me on [Ko-fi](https://ko-fi.com/tsixom) ☕
 
 ![Watch UI](file_00000000131c71f58e63779bd8d87106.png)
 ![Watch UI](file_00000000c26471f597b9f4932abed468.png)
